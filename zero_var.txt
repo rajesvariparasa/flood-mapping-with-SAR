@@ -1,3 +1,4 @@
+('filename', 'band_number')
 ('0.tif', tensor(2))
 ('0.tif', tensor(3))
 ('0.tif', tensor(4))
