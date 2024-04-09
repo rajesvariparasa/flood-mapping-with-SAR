@@ -9,6 +9,6 @@ Data used from [IEEE GRSS DFC Flood Rapid Mapping contest](https://ieee-dataport
 
 * [Rajeswari Parasa](https://github.com/rajesvariparasa)
 
-*[Dhia Turki](https://github.com/turkim1)
+* [Dhia Turki](https://github.com/turkim1)
 
 *In order of last names
